@@ -42,6 +42,6 @@ Start the server
 
 
 
-## Support
+<!-- ## Support -->
 
-Show your Support with a coffee!: https://ko-fi.com/ottoprogrammer
+<!-- Show your Support with a coffee!: https://ko-fi.com/ottoprogrammer -->
